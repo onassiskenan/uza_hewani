@@ -1699,11 +1699,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\codefoundas\\deployed\\uzaHewani\\uzaHewani\\uzaHewani.csproj",
-      "projectName": "uzaHewani",
-      "projectPath": "C:\\xampp\\htdocs\\codefoundas\\deployed\\uzaHewani\\uzaHewani\\uzaHewani.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\codefoundas\\deployed\\uzaHewani\\UzaHewani\\UzaHewani.csproj",
+      "projectName": "UzaHewani",
+      "projectPath": "C:\\xampp\\htdocs\\codefoundas\\deployed\\uzaHewani\\UzaHewani\\UzaHewani.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\codefoundas\\deployed\\uzaHewani\\uzaHewani\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\codefoundas\\deployed\\uzaHewani\\UzaHewani\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

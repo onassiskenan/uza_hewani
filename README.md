@@ -1,1 +1,0 @@
-# uza_hewani

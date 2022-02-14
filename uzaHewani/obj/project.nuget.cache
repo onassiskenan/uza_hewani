@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lrzpWHb0SISN+gbjWcRc+KWqV0cIr6EA3F3Yq59kLpyW9CZWN9whz1VaT9EtF6fUiiFvHkx9iq4OS3ETD0nYpg==",
+  "dgSpecHash": "Bx+d3nTW2LSoonD589/ilasChAF3/R0WjEprdHfts8858hF7QXewNoDB5mMrmM6dPHEqtAtvhMGVQXkKFGZmHg==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\codefoundas\\deployed\\uzaHewani\\uzaHewani\\uzaHewani.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\codefoundas\\deployed\\uzaHewani\\UzaHewani\\UzaHewani.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\xamarin.androidx.activity\\1.1.0.3\\xamarin.androidx.activity.1.1.0.3.nupkg.sha512",
